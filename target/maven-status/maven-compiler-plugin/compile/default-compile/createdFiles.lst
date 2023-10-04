@@ -1,0 +1,10 @@
+com\mycompany\abstractfactory_ejercicio2\AutomovilGasolina.class
+com\mycompany\abstractfactory_ejercicio2\ScooterElectricidad.class
+com\mycompany\abstractfactory_ejercicio2\IAbstractFactory.class
+com\mycompany\abstractfactory_ejercicio2\FabricaVehiculoGasolina.class
+com\mycompany\abstractfactory_ejercicio2\ScooterGasolina.class
+com\mycompany\abstractfactory_ejercicio2\AutomovilElectricidad.class
+com\mycompany\abstractfactory_ejercicio2\IScooter.class
+com\mycompany\abstractfactory_ejercicio2\IAutomovil.class
+com\mycompany\abstractfactory_ejercicio2\FabricaVehiculoElectricidad.class
+com\mycompany\abstractfactory_ejercicio2\AbstractFactory_Ejercicio2.class
